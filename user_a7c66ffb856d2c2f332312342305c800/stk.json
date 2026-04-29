@@ -1,7 +1,15 @@
 {
-  "stickers": {},
+  "stickers": {
+    "stk_1777429290875_2kvve8": {
+      "url": "https://files.catbox.moe/chwyml.webm",
+      "type": "webm",
+      "size": 44516,
+      "hash": "a2599f7152bdd8d9d308e6b904525dd2",
+      "timestamp": 1777429293806
+    }
+  },
   "remaining": 49,
-  "totalStickers": 0,
+  "totalStickers": 1,
   "createdAt": "2026-04-29T02:09:42.170Z",
   "resetAt": null,
   "userId": "677b53da8adb5fadcdbb9bcf"
