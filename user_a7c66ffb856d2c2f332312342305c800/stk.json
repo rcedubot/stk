@@ -1,7 +1,13 @@
 {
-  "stickers": {},
+  "stickers": {
+    "stk_1777432951586_g87aae": {
+      "url": "1bx3gv.webm",
+      "type": "webm",
+      "size": 141940
+    }
+  },
   "remaining": 49,
-  "totalStickers": 0,
+  "totalStickers": 1,
   "createdAt": "2026-04-29T03:19:41.362Z",
   "resetAt": "2026-04-30T03:21:07.407Z",
   "userId": "9740e84a35f0ff950648316a"
